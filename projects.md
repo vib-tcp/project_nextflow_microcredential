@@ -16,3 +16,4 @@
 | https://github.com/saradufour/project_nextflow_microCredential           |
 | https://github.com/leenput/microcredential-nextflow-project/tree/main    |
 | https://github.com/ddebeer/nextflow_project                              |
+| https://github.com/i-l-s-e/project_nextflow_microcredential_ilse         |
